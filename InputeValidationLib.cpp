@@ -1,14 +1,9 @@
-
 // InputValidationV1.cpp : Defines the functions for the static library.
 //
 
 #include "pch.h"
 #include "inputValLib.h"
 
-// TODO: This is an example of a library function
-void fnInputValidationV1()
-{
-}
 #include <iostream> // header in standard library
 
 using std::cout;
